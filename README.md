@@ -1,6 +1,6 @@
 #Batch
 
-##A lovingly designed and crafted suite of 300 (and counting) icons for web and user interface design by [@adamwhitcroft](https://twitter.com/adamwhitcroft).
+###A lovingly designed and crafted suite of 300 (and counting) icons for web and user interface design by [@adamwhitcroft](https://twitter.com/adamwhitcroft).
 
 Visit the [Batch website](http://adamwhitcroft.com/batch/).
 
