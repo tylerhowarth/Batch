@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<g>
+	<rect x="14" y="9" fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" width="2" height="2"/>
+	<rect x="14" y="5" fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" width="2" height="2"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" d="M14,3h2c0-1.657-1.343-3-3-3v2C13.553,2,14,2.448,14,3z"/>
+	<rect x="9" y="14" fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" width="2" height="2"/>
+	<rect x="9" fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" width="2" height="2"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" d="M10.924,8.617C10.77,8.244,10.404,8,10,8H9V4.999
+		c0-0.553-0.447-1-1-1c-0.552,0-1,0.447-1,1V8H6C5.596,8,5.23,8.244,5.076,8.617c-0.154,0.374-0.069,0.804,0.217,1.09l2,2
+		C7.488,11.902,7.744,12,8,12s0.512-0.098,0.707-0.293l2-2C10.992,9.421,11.078,8.992,10.924,8.617z"/>
+	<rect x="5" fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" width="2" height="2"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" d="M2,13H0c0,1.657,1.343,3,3,3v-2C2.448,14,2,13.553,2,13z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" d="M0,3h2c0-0.552,0.448-1,1-1V0C1.343,0,0,1.343,0,3z"/>
+	<rect y="5" fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" width="2" height="2"/>
+	<rect y="9" fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" width="2" height="2"/>
+	<rect x="5" y="14" fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" width="2" height="2"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" d="M13,14v2c1.657,0,3-1.343,3-3h-2C14,13.553,13.553,14,13,14z"/>
+</g>
+</svg>
