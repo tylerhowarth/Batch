@@ -6,8 +6,12 @@ Each icon is a single Photoshop shape layer, meaning they can be scaled up—and
 
 ##Versions
 
-As Batch is an evolving resource, it made the most sense to host it on GitHub for the versioning features.
+As Batch is a growing resource, it made the most sense to host it on GitHub for the versioning and wiki features.
 
-##Batch Font & Inuit.css
+##Batch Font
 
-[Harry Roberts](https://twitter.com/csswizardry) and [Matt Allen](https://twitter.com/sdmix) have plans for Batch (feel free to edit).
+[Matt Allen](https://twitter.com/sdmix) will be creating the Batch Font.
+
+##Batch & Inuit.css
+
+[Harry Roberts](https://twitter.com/csswizardry) will be incorporating the Batch Font into [Intuit.css](https://github.com/csswizardry/inuit.css).
